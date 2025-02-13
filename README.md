@@ -24,11 +24,14 @@ The goal of this project is to:
 
 
  Files
-- `superstore.csv`: The dataset used for analysis.
-- `sales_analysis.ipynb`: Python code for data cleaning, EDA, and SQL queries.
+- `[Sample - Superstore.csv.zip](https://github.com/user-attachments/files/18790018/Sample.-.Superstore.csv.zip)
+ore.csv`: The dataset used for analysis.
+- `[Uploading PROJECT_1.ipynb…]
+`: Python code for data cleaning, EDA, and SQL queries.
 - `PowerBI_Dashboard.pbix`: Power BI dashboard for visualization.
 
 
+[Uploading PROJECT_1.ipynb…]()
 
   Steps to Reproduce
 1. Download the Dataset:
@@ -56,6 +59,8 @@ The goal of this project is to:
   Screenshots
 
 Python Analysis
+
+
 !GRAPH[image](https://github.com/user-attachments/assets/ffa25758-99de-4aa3-ac5f-f26e99a54846)
 !SQL[image](https://github.com/user-attachments/assets/85fc4f64-eb7c-40c3-99b4-be0adc0d1def)
 
